@@ -1,0 +1,4 @@
+name: AirDrops
+version: '${version}'
+main: ru.n08i40k.airdrops.AirDrops
+api-version: '1.16'
